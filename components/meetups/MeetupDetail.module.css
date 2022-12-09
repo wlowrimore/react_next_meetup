@@ -1,0 +1,16 @@
+.detail img {
+  width: 100%;
+}
+
+.detail h1 {
+  font-size: 28px;
+}
+
+.detail address {
+  font-size: 18px;
+}
+
+.detail p {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
